@@ -1,0 +1,166 @@
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.btn-custom{
+  background-color:#EF402D;
+  color:white;
+  border-color:#EF402D;
+
+}
+
+.navbar{
+  background-color:#EF402D;
+
+}
+
+.nav-link,.navbar-brand{
+  color: #ffffff;
+}
+
+.card-horizontal {
+  display: flex;
+  flex: 1 1 auto;
+}
+
+.card-b {
+  background-color: #fff;
+  margin: 0 auto 25px;
+  margin-top: 10px;
+  border-radius: 2px;
+  box-shadow: 0px 2px 2px rgb(0 0 0 / 30%);
+}
+
+.card-c {
+  background-color: #f7f7f7;
+  padding: 20px 25px 30px;
+  margin: 0 auto 25px;
+  margin-top: 10px;
+  border-radius: 2px;
+  box-shadow: 0px 2px 2px rgb(0 0 0 / 30%);
+}
+
+.sup {
+  z-index:1;
+  position:relative;
+  top:50px;
+  right:180px;
+  margin-left:-25px;
+  padding: 20px 25px 30px;
+  background-color:#d9534f;
+}
+
+
+.card-d{
+  background-color: #fff;
+  margin-top: 50px;
+ } 
+
+ .card-e{
+  border: 2px solid #F0FFF0;
+  background-color: #fff;
+  border-radius: 2px; 
+ } 
+
+ .card-f{
+  border: 4px solid #f8f9fa;
+  background-color: #f7f7f7;
+  margin: 0 auto 25px;
+  margin-top: 5px;
+  margin-bottom: 0px;
+  border-radius: 2px; 
+  box-shadow: 0px 1px 0px #f8f9fa; 
+ } 
+
+.card-header-a {
+  padding: .75rem 1.25rem;
+  margin-bottom: 0;
+  background-color: #ef402d;
+  border-bottom: 1px solid #f8f9fa;
+  color:#F0FFF0
+}
+
+.long{
+  height:100;
+}
+
+.list-group-item-f {
+  background-color: #fff;
+}
+
+.custom{
+    padding-left: 0px;
+    padding-right: 0px;
+    height: 800px;
+    width: 350px;
+}
+
+.custom-body-b{
+    height: 600px;
+    width: 350px;
+}
+
+.custom-body-a{
+  height: 300px;
+  width: 342px;
+}
+.round{
+  height: 20px;
+  width: 20px;
+  line-height: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 40px;
+  font-size: 1 em;
+  padding: 10px;
+}
+
+.big-banner{
+  text-align: center;
+  background-image: url('assets/rise.jpeg');
+  height: 100%;
+  width:100%;
+  min-width: 100%;
+  min-height: 100%;
+  background-size: cover;
+  position: fixed;
+  background-position: center;
+  left: 0;
+  top: 0;
+  right: 0;
+}
+
+
+.card-login{
+  padding: 20px 25px 30px;
+  border: 4px solid #fff;
+  background-color: #fff;
+  margin: 0 auto 25px;
+  margin-top: 50px;
+  margin-bottom: 0px;
+  border-radius: 2px; 
+  box-shadow: 0px 1px 0px #fff; 
+ } 
+
+ .card-reg{
+  padding: 20px 25px 30px;
+  border: 4px solid #fff;
+  background-color: #fff;
+  margin: 0 auto 25px;
+  margin-top: 50px;
+  margin-bottom: 0px;
+  border-radius: 2px; 
+  box-shadow: 0px 1px 0px #fff; 
+ } 
+
+ .red-color{
+  background-color: #ef402d;
+ }
+
+ .previous {
+  color: black;
+}
+
+
+
+
