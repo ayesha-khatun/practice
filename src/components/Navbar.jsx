@@ -11,8 +11,8 @@ const Navbar = () => {
   };
   return (
     <nav className="navbar navbar-expand">
-      <Link to={"/dashboard"} className="navbar-brand">
-        <MdComputer className="mr-2" />Rise Up Labs
+      <Link to={"/"} className="navbar-brand">
+        <MdComputer className="mr-2" />Esquire Technology
       </Link>
       {currentUser ? (
         <div className="navbar-nav ml-auto">

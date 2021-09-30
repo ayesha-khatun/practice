@@ -14,7 +14,7 @@ function Dashboard() {
       <Redirect to="/login" /> :
       <div className="col-md-12 addBootcamp">
         <div className="w-80">
-          <h5 className="card-title">Welcome to Rise Up Labs</h5>
+          <h5 className="card-title">Welcome to Esquire Technology</h5>
         </div>
       </div>
     )
